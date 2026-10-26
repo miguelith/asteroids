@@ -2,6 +2,8 @@
 
 A simple Asteroids-style arcade game built with Python and Pygame as part of the [Boot.dev](https://www.boot.dev/) curriculum.
 
+![Asteroids gameplay](gameplay.gif)
+
 ## Features
 
 - Player movement and rotation
